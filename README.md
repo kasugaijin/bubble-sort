@@ -1,1 +1,2 @@
 # bubble-sort
+This Ruby algorithm sorts an array using the bubble sort methodology. The goal of this exercise is to build a sorting method, and not just use the Ruby enumerable .sort.  This method compares each value to the one on its right, and if the righthand value is lower, switches its index with the value to the left. A loop makes this check interate over the array multiples times to make sure each value is compared and sorted. You can view bubble.rb locally if you have Ruby installed, or online at: https://replit.com/@BenJ8/CreepyDraftyTruespace#main.rb
